@@ -1,2 +1,3 @@
 # HacktoberFest2020
-lets hack the world
+# It's that time of the year again! When the world comes together to celebrate the spirit of open source, and we sure are glad to do our part.
+Lets contribute to open source and help many devs around there to solve problems
